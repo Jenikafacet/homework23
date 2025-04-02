@@ -1,0 +1,21 @@
+.tarif__title {
+    background-color: aquamarine;
+    margin: 1px;
+    padding: 10px;
+}
+
+.tarifbox {
+    background-color: antiquewhite;
+    width: 200px;
+    margin: 20px 0 10px;
+    padding: 1px;
+}
+
+.tarif__pricebox {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    gap: 5px;
+    background-color: aquamarine;
+    margin: 1px;
+}

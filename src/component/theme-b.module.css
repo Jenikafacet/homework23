@@ -1,0 +1,22 @@
+.tarif__title {
+    background-color: rgb(228, 110, 50);
+    margin: 1px;
+    padding: 26px;
+}
+
+.tarifbox {
+    background-color: antiquewhite;
+    width: 200px;
+    margin: 0;
+    padding: 1px;
+    box-shadow: -12px 12px 5px 1px rgba(7, 7, 7, 0.2);
+}
+
+.tarif__pricebox {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    gap: 5px;
+    background-color:rgb(228, 110, 50);
+    margin: 1px;
+}

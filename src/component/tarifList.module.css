@@ -1,0 +1,6 @@
+.tariflist {
+    display: flex;
+    background-color: blue;
+    justify-content: center;
+    padding: 30px;
+}
