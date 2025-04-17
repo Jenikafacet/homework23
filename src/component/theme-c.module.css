@@ -1,14 +1,15 @@
 .tariff__title {
-    background-color: aquamarine;
+    background-color: rgb(50, 59, 228);
     margin: 1px;
-    padding: 10px;
+    padding: 26px;
 }
 
 .tariffbox {
     background-color: antiquewhite;
     width: 220px;
-    margin: 20px 0 10px;
+    margin: 0;
     padding: 1px;
+    box-shadow: 0 0 10px 12px rgb(40, 188, 232);
 }
 
 .tariff__pricebox {
@@ -16,6 +17,6 @@
     justify-content: center;
     align-items: baseline;
     gap: 5px;
-    background-color: aquamarine;
+    background-color:rgb(50, 59, 228);
     margin: 1px;
 }

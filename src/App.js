@@ -1,10 +1,10 @@
 import './App.css';
-import TarifList from './component/TarifList';
+import TariffList from './component/TariffList';
 
 function App() {
   return (
     <div className="App">
-      <TarifList />
+      <TariffList />
     </div>
   );
 }

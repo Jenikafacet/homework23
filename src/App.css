@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.tariffbox {
+  background-color: antiquewhite;
+  width: 200px;
+  margin: 20px 0 10px;
+  padding: 1px;
+}
+
+.tariffbox2 {
+  background-color: antiquewhite;
+  width: 200px;
+  margin: 0;
+  padding: 1px;
+  box-shadow: 0 0 10px 12px rgb(40, 188, 232);
+}

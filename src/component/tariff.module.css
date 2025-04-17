@@ -1,0 +1,35 @@
+.tariff__price {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.tariff__currency {
+    align-self: flex-start;
+}
+
+.tariff__text {
+    background-color: rgb(234, 239, 239);
+    margin: 0;
+    padding: 10px;
+}
+
+.tariff__speed {
+    background-color: azure;
+    margin: 0;
+    padding: 10px;
+}
+
+.tariffbox {
+    background-color: antiquewhite;
+    width: 200px;
+    margin: 20px 0 10px;
+    padding: 1px;
+}
+
+.tariffbox2 {
+    background-color: antiquewhite;
+    width: 200px;
+    margin: 0;
+    padding: 1px;
+    box-shadow: 0 0 10px 12px rgb(40, 188, 232);
+}
